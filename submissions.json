@@ -1,4 +1,20 @@
 {
+  "AC36080029": {
+    "contest_id": "abc275",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc275\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Find Takahashi",
+    "problem_url": "https://atcoder.jp/contests/abc275/tasks/abc275_a",
+    "submission_id": "AC36080029",
+    "submission_url": "https://atcoder.jp/contests/abc275/submissions/36080029",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/29/2022 23:22"
+  },
   "AC36279924": {
     "contest_id": "abc276",
     "language": "C++ (GCC 9.2.1)",

@@ -13,16 +13,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-13 | [A - Nine](https://atcoder.jp/contests/abc309/tasks/abc309_a) | [C++ (GCC 9.2.1)](./atcoder/abc309/A.cpp) | `AtCoder` `*100` | Jul/08/2023 17:49 | 
-12 | [B - Default Price](https://atcoder.jp/contests/abc308/tasks/abc308_b) | [C++ (GCC 9.2.1)](./atcoder/abc308/B.cpp) | `AtCoder` `*200` | Jul/01/2023 19:24 | 
-11 | [A - New Scheme](https://atcoder.jp/contests/abc308/tasks/abc308_a) | [C++ (GCC 9.2.1)](./atcoder/abc308/A.cpp) | `AtCoder` `*100` | Jul/01/2023 17:40 | 
-10 | [A - Subscribers](https://atcoder.jp/contests/nikkei2019-qual/tasks/nikkei2019_qual_a) | [C++ (GCC 9.2.1)](./atcoder/nikkei2019-qual/A.cpp) | `AtCoder` `*100` | Jun/25/2023 14:55 | 
-9 | [A - Harmony](https://atcoder.jp/contests/abc135/tasks/abc135_a) | [C++ (GCC 9.2.1)](./atcoder/abc135/A.cpp) | `AtCoder` `*100` | Jun/24/2023 21:06 | 
-8 | [B - GCD Subtraction](https://atcoder.jp/contests/arc159/tasks/arc159_b) | [C++ (GCC 9.2.1)](./atcoder/arc159/B.cpp) | `AtCoder` `*400` | Apr/09/2023 12:20 | 
-7 | [C - Gap Existence](https://atcoder.jp/contests/abc296/tasks/abc296_c) | [C++ (GCC 9.2.1)](./atcoder/abc296/C.cpp) | `AtCoder` `*300` | Apr/01/2023 20:06 | 
-6 | [B - Chessboard](https://atcoder.jp/contests/abc296/tasks/abc296_b) | [C++ (GCC 9.2.1)](./atcoder/abc296/B.cpp) | `AtCoder` `*200` | Apr/01/2023 18:13 | 
-5 | [A - Alternately](https://atcoder.jp/contests/abc296/tasks/abc296_a) | [C++ (GCC 9.2.1)](./atcoder/abc296/A.cpp) | `AtCoder` `*100` | Apr/01/2023 17:39 | 
-4 | [A - Swap Odd and Even](https://atcoder.jp/contests/abc293/tasks/abc293_a) | [C++ (GCC 9.2.1)](./atcoder/abc293/A.cpp) | `AtCoder` `*100` | Mar/12/2023 13:22 | 
-3 | [B - Multi Test Cases](https://atcoder.jp/contests/abc284/tasks/abc284_b) | [C++ (GCC 9.2.1)](./atcoder/abc284/B.cpp) | `AtCoder` `*200` | Jan/07/2023 19:28 | 
-2 | [A - Sequence of Strings](https://atcoder.jp/contests/abc284/tasks/abc284_a) | [C++ (GCC 9.2.1)](./atcoder/abc284/A.cpp) | `AtCoder` `*100` | Jan/07/2023 19:25 | 
-1 | [A - Rightmost](https://atcoder.jp/contests/abc276/tasks/abc276_a) | [C++ (GCC 9.2.1)](./atcoder/abc276/A.cpp) | `AtCoder` `*100` | Nov/06/2022 12:09 | 
+14 | [A - Nine](https://atcoder.jp/contests/abc309/tasks/abc309_a) | [C++ (GCC 9.2.1)](./atcoder/abc309/A.cpp) | `AtCoder` `*100` | Jul/08/2023 17:49 | 
+13 | [B - Default Price](https://atcoder.jp/contests/abc308/tasks/abc308_b) | [C++ (GCC 9.2.1)](./atcoder/abc308/B.cpp) | `AtCoder` `*200` | Jul/01/2023 19:24 | 
+12 | [A - New Scheme](https://atcoder.jp/contests/abc308/tasks/abc308_a) | [C++ (GCC 9.2.1)](./atcoder/abc308/A.cpp) | `AtCoder` `*100` | Jul/01/2023 17:40 | 
+11 | [A - Subscribers](https://atcoder.jp/contests/nikkei2019-qual/tasks/nikkei2019_qual_a) | [C++ (GCC 9.2.1)](./atcoder/nikkei2019-qual/A.cpp) | `AtCoder` `*100` | Jun/25/2023 14:55 | 
+10 | [A - Harmony](https://atcoder.jp/contests/abc135/tasks/abc135_a) | [C++ (GCC 9.2.1)](./atcoder/abc135/A.cpp) | `AtCoder` `*100` | Jun/24/2023 21:06 | 
+9 | [B - GCD Subtraction](https://atcoder.jp/contests/arc159/tasks/arc159_b) | [C++ (GCC 9.2.1)](./atcoder/arc159/B.cpp) | `AtCoder` `*400` | Apr/09/2023 12:20 | 
+8 | [C - Gap Existence](https://atcoder.jp/contests/abc296/tasks/abc296_c) | [C++ (GCC 9.2.1)](./atcoder/abc296/C.cpp) | `AtCoder` `*300` | Apr/01/2023 20:06 | 
+7 | [B - Chessboard](https://atcoder.jp/contests/abc296/tasks/abc296_b) | [C++ (GCC 9.2.1)](./atcoder/abc296/B.cpp) | `AtCoder` `*200` | Apr/01/2023 18:13 | 
+6 | [A - Alternately](https://atcoder.jp/contests/abc296/tasks/abc296_a) | [C++ (GCC 9.2.1)](./atcoder/abc296/A.cpp) | `AtCoder` `*100` | Apr/01/2023 17:39 | 
+5 | [A - Swap Odd and Even](https://atcoder.jp/contests/abc293/tasks/abc293_a) | [C++ (GCC 9.2.1)](./atcoder/abc293/A.cpp) | `AtCoder` `*100` | Mar/12/2023 13:22 | 
+4 | [B - Multi Test Cases](https://atcoder.jp/contests/abc284/tasks/abc284_b) | [C++ (GCC 9.2.1)](./atcoder/abc284/B.cpp) | `AtCoder` `*200` | Jan/07/2023 19:28 | 
+3 | [A - Sequence of Strings](https://atcoder.jp/contests/abc284/tasks/abc284_a) | [C++ (GCC 9.2.1)](./atcoder/abc284/A.cpp) | `AtCoder` `*100` | Jan/07/2023 19:25 | 
+2 | [A - Rightmost](https://atcoder.jp/contests/abc276/tasks/abc276_a) | [C++ (GCC 9.2.1)](./atcoder/abc276/A.cpp) | `AtCoder` `*100` | Nov/06/2022 12:09 | 
+1 | [A - Find Takahashi](https://atcoder.jp/contests/abc275/tasks/abc275_a) | [C++ (GCC 9.2.1)](./atcoder/abc275/A.cpp) | `AtCoder` `*100` | Oct/29/2022 23:22 | 
