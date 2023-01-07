@@ -1,4 +1,20 @@
 {
+  "AC37851787": {
+    "contest_id": "abc284",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc284\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Multi Test Cases",
+    "problem_url": "https://atcoder.jp/contests/abc284/tasks/abc284_b",
+    "submission_id": "AC37851787",
+    "submission_url": "https://atcoder.jp/contests/abc284/submissions/37851787",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/07/2023 19:28"
+  },
   "AC39665085": {
     "contest_id": "abc293",
     "language": "C++ (GCC 9.2.1)",
