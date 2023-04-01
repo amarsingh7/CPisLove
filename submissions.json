@@ -1,4 +1,20 @@
 {
+  "AC40271183": {
+    "contest_id": "abc296",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc296\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Gap Existence",
+    "problem_url": "https://atcoder.jp/contests/abc296/tasks/abc296_c",
+    "submission_id": "AC40271183",
+    "submission_url": "https://atcoder.jp/contests/abc296/submissions/40271183",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Apr/01/2023 20:06"
+  },
   "AC40444244": {
     "contest_id": "arc159",
     "language": "C++ (GCC 9.2.1)",
