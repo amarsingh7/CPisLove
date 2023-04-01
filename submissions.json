@@ -1,4 +1,20 @@
 {
+  "AC40239742": {
+    "contest_id": "abc296",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc296\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Chessboard",
+    "problem_url": "https://atcoder.jp/contests/abc296/tasks/abc296_b",
+    "submission_id": "AC40239742",
+    "submission_url": "https://atcoder.jp/contests/abc296/submissions/40239742",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Apr/01/2023 18:13"
+  },
   "AC40271183": {
     "contest_id": "abc296",
     "language": "C++ (GCC 9.2.1)",
