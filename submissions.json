@@ -1,4 +1,20 @@
 {
+  "AC40444244": {
+    "contest_id": "arc159",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc159\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "GCD Subtraction",
+    "problem_url": "https://atcoder.jp/contests/arc159/tasks/arc159_b",
+    "submission_id": "AC40444244",
+    "submission_url": "https://atcoder.jp/contests/arc159/submissions/40444244",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Apr/09/2023 12:20"
+  },
   "AC42935352": {
     "contest_id": "abc135",
     "language": "C++ (GCC 9.2.1)",
