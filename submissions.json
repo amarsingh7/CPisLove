@@ -1,4 +1,20 @@
 {
+  "AC42935352": {
+    "contest_id": "abc135",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc135\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Harmony",
+    "problem_url": "https://atcoder.jp/contests/abc135/tasks/abc135_a",
+    "submission_id": "AC42935352",
+    "submission_url": "https://atcoder.jp/contests/abc135/submissions/42935352",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/24/2023 21:06"
+  },
   "AC42956109": {
     "contest_id": "nikkei2019-qual",
     "language": "C++ (GCC 9.2.1)",
