@@ -1,4 +1,20 @@
 {
+  "AC42956109": {
+    "contest_id": "nikkei2019-qual",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\nikkei2019-qual\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Subscribers",
+    "problem_url": "https://atcoder.jp/contests/nikkei2019-qual/tasks/nikkei2019_qual_a",
+    "submission_id": "AC42956109",
+    "submission_url": "https://atcoder.jp/contests/nikkei2019-qual/submissions/42956109",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/25/2023 14:55"
+  },
   "AC43099740": {
     "contest_id": "abc308",
     "language": "C++ (GCC 9.2.1)",
